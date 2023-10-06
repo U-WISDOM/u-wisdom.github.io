@@ -1,0 +1,30 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: People
+  url: "/people/"
+  side: left
+
+- title: "Services"
+  url: "/services/"
+  side: left
+  dropdown:
+  - title: "Consultation"
+    url: "/services/consult/"
+  - title: "Data analysis"
+    url: "/services/data-analysis/"
+  - title: "Training"
+    url: "/services/training/"
+
+- title: Tools
+  url: "/tools/"
+  side: left
+  
+- title: Recent
+  url: "/blog/"
+  side: left
+
+- title: "Request consultation"
+  url: "/contact/"
+  side: right

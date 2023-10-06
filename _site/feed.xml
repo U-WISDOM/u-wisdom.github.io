@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/home/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/home/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>UWISDOM</title>
+		<description>University of Washington&lt;br&gt;750 Republican St&lt;br&gt;E781&lt;br&gt;Seattle, WA 98109</description>
+		<link>http://localhost:4000/home/</link>
+		<atom:link href="http://localhost:4000/home/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Introducing U-WISDOM</title>
+				<link>http://localhost:4000/home/uwisdom/uwisdom/</link>
+				<pubDate>Thu, 05 Oct 2023 00:00:00 -0700</pubDate>
+				<description>&lt;h3 id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav t60&quot;&gt;
+
+  
+
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/home/uwisdom/uwisdom/</guid>
+			</item>
+		
+	</channel>
+</rss>

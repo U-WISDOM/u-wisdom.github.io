@@ -1,0 +1,15 @@
+- menu_name: ""
+
+- name: "University of Washington"
+  url: "https://www.washington.edu/"
+
+- name: "UW School of Medicine"
+  url: "https://www.uwmedicine.org/school-of-medicine"
+  
+- name: "Sitemap"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"
+  
+- name: "Contact"
+  url: "/contact/"
+  title: "Contact"

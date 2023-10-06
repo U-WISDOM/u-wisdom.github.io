@@ -1,0 +1,10 @@
+- name: GitHub
+  url: http://github.com/u-wisdom
+  class: icon-github
+  title: U-WISDOM GitHub
+
+# - name: YouTube
+#   url: http://www.youtube.com/PhlowMedia
+#   class: icon-youtube
+#   title: "U-WISDOM YouTube"
+
