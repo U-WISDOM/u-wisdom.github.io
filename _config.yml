@@ -21,12 +21,12 @@ description: 'University of Washington<br>750 Republican St<br>E781<br>Seattle, 
 
 # Main author of the website
 # See > authors.yml
-author: Kim Dill-McFarland
+author: kim
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://u-wisdom.github.io'
-baseurl: '/home'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
