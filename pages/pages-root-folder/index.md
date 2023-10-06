@@ -6,22 +6,25 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: heatmap.png
+  image_fullwidth: 20230209_mountsi_0011.jpg
+  
+# Test
+
 widget1:
-  title: "Resume"
-  url: 'http://kdillmcfarland.github.io/short/'
-  image: kadm_headshot_lrg.jpg
-  text: "Where I've been and what I've done."
+  title: "About U-WISDOM"
+  url: /about/
+  image: 'wisdom_logo_square.png'
+  text: 'U of Washington Informatics, Systems immunology, and Data Omics in Medicine'
 widget2:
-  title: "Blog"
-  url: 'http://kdillmcfarland.github.io/blog/'
-  image: Claire2.jpg
-  text: "Coding tips, musings, and anything else that pops into my head worth sharing."
+  title: "Open-source resources"
+  url: /tools/
+  image: kimma.png
+  text: 'From workshops to R packages to meetups. Check-out the open-source resources available from U-WISDOM.'
 widget3:
-  title: "Workshops"
-  url: 'https://bigslu.github.io/workshops/'
-  image: hex.stickers.png 
-  text: "R, git, cloud computing, and more!"
+  title: "Recent projects"
+  url: /blog/
+  image: UMAP.png
+  text: 'Explore our recent projects with researchers in allergy, infectious diseases, cancer, and more.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,6 +35,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
+# callforaction:
+#   url: https://tinyletter.com/feeling-responsive
+#   text: Inform me about new updates and features ›
+#   style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -39,3 +46,10 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
