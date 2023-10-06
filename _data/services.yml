@@ -1,5 +1,5 @@
-# - menu_name: ""
-# 
-# - name: "Contact"
-#   url: "/contact/"
-#   title: "Contact"
+- menu_name: "Services"
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"

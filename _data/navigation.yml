@@ -2,29 +2,34 @@
   url: "/"
   side: left
 
-- title: People
-  url: "/people/"
-  side: left
-
-- title: "Services"
-  url: "/services/"
+- title: Resume
+  url: "/info/"
   side: left
   dropdown:
-  - title: "Consultation"
-    url: "/services/consult/"
-  - title: "Data analysis"
-    url: "/services/data-analysis/"
-  - title: "Training"
-    url: "/services/training/"
+  - title: "Resume"
+    url: "/short/"
+  - title: "Publications"
+    url: "/pubs/"
+  - title: "Teaching"
+    url: "/teach/"
+  - title: "Presentations"
+    url: "/present/"
 
-- title: Tools
-  url: "/tools/"
+- title: "Current"
+  url: "/current/"
   side: left
-  
-- title: Recent
+
+- title: "Blog"
   url: "/blog/"
   side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
-- title: "Request consultation"
-  url: "/contact/"
+- title: "Workshops"
+  url: "https://bigslu.github.io/workshops/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
   side: right

@@ -1,10 +1,14 @@
 - name: GitHub
-  url: http://github.com/u-wisdom
+  url: http://github.com/kdillmcfarland
   class: icon-github
-  title: U-WISDOM GitHub
+  title: "github"
 
-# - name: YouTube
-#   url: http://www.youtube.com/PhlowMedia
-#   class: icon-youtube
-#   title: "U-WISDOM YouTube"
+- name: Twitter
+  url: http://twitter.com/kdillmcfarland
+  class: icon-twitter
+  title: "twit"
 
+- name: Instagram
+  url: http://instagram.com/kdillmcfarland
+  class: icon-instagram
+  title: "insta"
