@@ -9,19 +9,14 @@ title: ""
 teaser: ""
 header:
     title: Data wizards
-    background-color: "#b7a57a;"
+    image_fullwidth: background/texture2.jpg
 ---
 
-<div class="show-for-small">
-<div class="row">
-    <div class="small-12 columns">
-<h3>Small Grid</h3>
-        </div><!-- /.small-12.columns -->
-    </div>
+<div class="show-for-medium-down">
 <div class="row">
   <div class="small-3 columns">
       <br><br>
-      <img height="300px" class="center-block" src="https://github.com/U-WISDOM/u-wisdom.github.io/blob/main/images/headshots/DillMcFarland_Kim.jpeg?raw=true">
+      <img height="300px" class="center-block" src="https://github.com/U-WISDOM/u-wisdom.github.io/blob/gh-pages/images/headshots/DillMcFarland_Kim.jpeg?raw=true">
   </div>
   <div class="small-9 columns">
       <h3>Kim Dill-McFarland, PhD</h3>
@@ -34,11 +29,6 @@ header:
 </div>
 
 <div class="show-for-large-up">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.small-12.columns -->
-    </div>
-
 <div class="row">
   <div class="large-3 columns">
       <br><br>

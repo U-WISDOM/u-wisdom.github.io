@@ -6,18 +6,19 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: 20230209_mountsi_0011.jpg
-  
+  image_fullwidth: background/building2.jpg
+  caption: UWISDOM offices
+
 # Test
 
 widget1:
   title: "About U-WISDOM"
   url: /about/
-  image: 'wisdom_logo_square.png'
+  image: 'wisdom_logo_splash.png'
   text: 'U of Washington Informatics, Systems immunology, and Data Omics in Medicine'
 widget2:
   title: "Open-source resources"
-  url: /tools/
+  url: /resources/
   image: kimma.png
   text: 'From workshops to R packages to meetups. Check-out the open-source resources available from U-WISDOM.'
 widget3:

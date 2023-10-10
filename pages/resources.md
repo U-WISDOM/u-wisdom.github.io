@@ -1,12 +1,13 @@
 ---
 layout: page
-permalink: "/tools/"
+permalink: "/resources/"
 subheadline: ""
 title: ""
 teaser: ""
 header:
     title: Tools
-    background-color: "#b7a57a;"
+    image_fullwidth: background/r_code.png
+    caption:
 ---
 
 

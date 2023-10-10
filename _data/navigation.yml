@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: About
+  url: "/about/"
+  side: left
+  
 - title: People
   url: "/people/"
   side: left
@@ -16,9 +20,9 @@
     url: "/services/data-analysis/"
   - title: "Training"
     url: "/services/training/"
-
-- title: Tools
-  url: "/tools/"
+    
+- title: Resources
+  url: "/resources/"
   side: left
   
 - title: Recent
