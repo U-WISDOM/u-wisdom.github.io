@@ -1,13 +1,39 @@
 ---
 layout: page
 permalink: "/about/"
-#title: "About U-WISDOM"
+subtitle: "University of Washington Informatics, Systems immunology, and Data Omics in Medicine"
 permalink: "/about/"
 header:
     title: About U-WISDOM
-    background-color: "#b7a57a;"
+    image_fullwidth: background/needle1b.jpg
+    caption: View from UWISDOM offices
 ---
 
-<h4><b>UW Informatics, Systems immunology, and Data Omics in Medicine</b></h4>
+## Our mission
 
-<h4> U-WISDOM provides bioinformatics support to researchers in biological and biomedical research. We bring expertise in multi-omics, statistics, and machine learning to help you glean robust, novel insights from your biological data. We offer assistance with experimental design, data analysis, manuscripts, and grant preparation. Please explore our <a href="/services">services</a> or reach out for a <a href="/consult">consultation</a> to learn more. </h4>
+U-WISDOM provides bioinformatics services and resources to the U of Washington. Our vision is to advance and accelerate biomedical research toward the improvement of human health and treatment of disease.
+
+## Our values
+
+<img height="300px" class="center-block" src="https://github.com/U-WISDOM/u-wisdom.github.io/blob/gh-pages/images/values.png?raw=true">
+
+## Our services
+
+U-WISDOM brings expertise in multi-omics, statistics, and machine learning to help you glean novel insights from your biological data. We offer assistance with experimental design, data analysis, manuscripts, and grant preparation. Whether it is a one-time meeting or many years of collaboration, we are here for you! Please see our <a href="/services">services</a> to learn more.
+
+## Contact
+
+Please reach out to Kim Dill-McFarland ( kadm[at]uw[.]edu ) with inquires regarding U-WISDOM. If you have a project for us, please fill out and include <a href="/forms/UWISDOM_consult_form.pdf" download>our consultation form</a>.
+
+## Location
+
+U-WISDOM is located at the U of Washington, South Lake Union campus in Seattle, WA.
+
+U-WISDOM, University of Washington  
+750 Republican St  
+E781  
+Seattle, WA 98109 
+
+## Contribute to our code
+
+Please submit an issue or pull request on <a href="https://github.com/U-WISDOM">our GitHub</a>.
