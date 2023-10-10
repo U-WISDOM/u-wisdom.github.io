@@ -17,7 +17,7 @@ slogan: "U of Washington Informatics, Systems immunology, and Data Omics in Medi
 description: 'University of Washington<br>750 Republican St<br>E781<br>Seattle, WA 98109'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: ''
+credits: 'Photos by Kim Dill-McFarland'
 
 # Main author of the website
 # See > authors.yml
