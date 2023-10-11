@@ -19,7 +19,7 @@ U-WISDOM provides bioinformatics services and resources to the U of Washington. 
 
 ## Our services
 
-U-WISDOM brings expertise in multi-omics, statistics, and machine learning to help you glean novel insights from your biological data. We offer assistance with experimental design, data analysis, manuscripts, and grant preparation. Whether it is a one-time meeting or many years of collaboration, we are here for you! Please see our <a href="/services">services</a> to learn more.
+U-WISDOM brings expertise in multi-omics, statistics, and machine learning to help you glean novel insights from your biological data. We offer assistance with experimental design, data analysis, and manuscript publication. Whether it is a one-time meeting or many years of collaboration, we are here for you! Please see our <a href="/services">services</a> to learn more.
 
 ## Contact
 

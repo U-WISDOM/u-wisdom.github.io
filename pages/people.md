@@ -20,8 +20,7 @@ header:
   </div>
   <div class="small-9 columns">
       <h3>Kim Dill-McFarland, PhD</h3>
-      Senior bioinformatician<br>
-      kadm@uw.edu<br><br>
+      Senior bioinformatician<br><br>
   
       Kim Dill-McFarland founded U-WISDOM in 2023 in order to grow bioinformatic resources at UW. She previously created the Bioinformatics Group at South Lake Union (BIGslu) where some of U-WISDOM's ideas began. Kim is currently a Senior Bioinformatician in the School of Medicine where she manages U-WISDOM as well as a group of bioinformaticians working within individual labs at UW. She has extensive 'omics experience including epigenetics, genetics, RNA, and protein modalities. She loves creating R packages and reproducible workflows, and you will most commonly find her coding with a cat in her lap.
   </div>
@@ -37,8 +36,7 @@ header:
   </div>
   <div class="large-9 columns">
       <h3>Kim Dill-McFarland, PhD</h3>
-      Senior bioinformatician<br>
-      kadm@uw.edu<br><br>
+      Senior bioinformatician<br><br>
   
       Kim Dill-McFarland founded U-WISDOM in 2023 in order to grow bioinformatic resources at UW. She previously created the Bioinformatics Group at South Lake Union (BIGslu) where some of U-WISDOM's ideas began. Kim is currently a Senior Bioinformatician in the School of Medicine where she manages U-WISDOM as well as a group of bioinformaticians working within individual labs at UW. She has extensive 'omics experience including epigenetics, genetics, RNA, and protein modalities. She loves creating R packages and reproducible workflows, and you will most commonly find her coding with a cat in her lap.
   </div>

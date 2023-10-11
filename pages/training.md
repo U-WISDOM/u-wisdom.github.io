@@ -12,7 +12,7 @@ header:
 
 ## One-on-one mentoring
 
-U-WISDOM can provide one-on-one mentoring to help researchers in your group learn how to perform bioinformatic analyses themselves. This can be accomplished in <a href="/services/consult">on-going consultations</a> or more hands-on with a U-WISDOM bioinformatician leading the analysis. Please setup an <a href="/contact">initial consultation</a> to discuss options.
+U-WISDOM can provide one-on-one mentoring to help researchers in your group learn how to perform bioinformatic analyses themselves. This can be accomplished in on-going consultations or more hands-on with a U-WISDOM bioinformatician leading the analysis. Please setup an <a href="/contact">initial consultation</a> to discuss options.
 
 There are also many open-source resources for self-learning. Please see our <a href="/services/resources">resources</a> to learn more.
 

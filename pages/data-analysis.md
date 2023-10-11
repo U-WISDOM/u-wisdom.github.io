@@ -10,11 +10,11 @@ header:
     caption: UWISDOM offices
 ---
 
-U-WISDOM offers customized analysis of your data. We work with you from experimental design to publication in order to leverage our expertise to help you get the most out of your research. Below you will find some specific data types and analyses that we are experienced in. However, if you don't see your specific data type or analysis below, please reach out. Not everything is listed here, and we are always excited to learn new methods!
+U-WISDOM offers customized analysis of your data. We work with you from experimental design to publication in order to leverage our expertise to help you get the most out of your research. Below you will find some specific data types and analyses that we are experienced in. However, if you don't see your specific data type or analysis, please reach out. Not everything is listed here, and we are always excited to learn new methods!
 
 <h2>Raw data</h2>
 
-We offer data analysis from raw fastq, idat, or other omics files. Specifically, we offer sequence alignment and count matrix generation for RNAseq as well as SNP calling for whole genome sequencing. These processes may incur additional computational costs. We do not offer raw proteomics data processing at this time.
+We offer data analysis starting from raw fastq, idat, or most other omics files. This includes sequence alignment, counts table generation, SNP calling, and more. These processes may incur additional computational costs due to AWS usage. We do not offer raw proteomics data processing at this time.
 
 <h2>Analysis</h2>
 
@@ -41,7 +41,7 @@ We offer data analysis from raw fastq, idat, or other omics files. Specifically,
   </tr>
   <tr>
     <td>Proteomics</td>
-    <td>Mass spec<br>Phosphorylation<br>Acetylation</td>
+    <td>Mass spec<br>Phosphorylation</td>
     <td>Differential abundance<br>Functional enrichment and GSEA</td>
   </tr>
   <tr>

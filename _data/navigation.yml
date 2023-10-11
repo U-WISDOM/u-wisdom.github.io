@@ -14,12 +14,12 @@
   url: "/services/"
   side: left
   dropdown:
-  - title: "Consultation"
-    url: "/services/consult/"
   - title: "Data analysis"
     url: "/services/data-analysis/"
   - title: "Training"
     url: "/services/training/"
+  - title: "Grant support"
+    url: "/services/grants/"
     
 - title: Resources
   url: "/resources/"
