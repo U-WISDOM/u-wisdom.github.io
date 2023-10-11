@@ -10,7 +10,7 @@ header:
     caption: UWISDOM offices
 ---
 
-U-WISDOM offers customized analysis of your data. We work with you from experimental design to publication in order to leverage our expertise to help you get the most out of your research. Below you will find some specific data types and analyses that we are experienced in. However, if you don't see your specific data type or analysis, please reach out. Not everything is listed here, and we are always excited to learn new methods!
+UWISDOM offers customized analysis of your data. We work with you from experimental design to publication in order to leverage our expertise to help you get the most out of your research. Below you will find some specific data types and analyses that we are experienced in. However, if you don't see your specific data type or analysis, please reach out. Not everything is listed here, and we are always excited to learn new methods!
 
 <h2>Raw data</h2>
 

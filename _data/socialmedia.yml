@@ -1,7 +1,7 @@
 - name: GitHub
-  url: http://github.com/u-wisdom
+  url: http://github.com/uwisdom
   class: icon-github
-  title: U-WISDOM GitHub
+  title: UWISDOM GitHub
 
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia

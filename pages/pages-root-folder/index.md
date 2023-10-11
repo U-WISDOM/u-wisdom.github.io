@@ -12,7 +12,7 @@ header:
 # Test
 
 widget1:
-  title: "About U-WISDOM"
+  title: "About UWISDOM"
   url: /about/
   image: 'wisdom_logo_splash.png'
   text: 'U of Washington Informatics, Systems immunology, and Data Omics in Medicine'
@@ -20,7 +20,7 @@ widget2:
   title: "Open-source resources"
   url: /resources/
   image: kimma.png
-  text: 'From workshops to R packages to meetups. Check-out the open-source resources available from U-WISDOM.'
+  text: 'From workshops to R packages to meetups. Check-out the open-source resources available from UWISDOM.'
 widget3:
   title: "Recent projects"
   url: /blog/

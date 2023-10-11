@@ -10,7 +10,7 @@ header:
     caption: UWISDOM offices
 ---
 
-U-WISDOM provides bioinformatics services and resources to the U of Washington. We bring expertise in multi-omics, statistics, and machine learning to help you glean novel insights from your biological data. We offer assistance with experimental design, data analysis, and manuscript publication. Whether it is a one-time meeting or many years of collaboration, we are here for you! 
+UWISDOM provides bioinformatics services and resources to the U of Washington. We bring expertise in multi-omics, statistics, and machine learning to help you glean novel insights from your biological data. We offer assistance with experimental design, data analysis, and manuscript publication. Whether it is a one-time meeting or many years of collaboration, we are here for you! 
 
 ## <a href="/services/data-analysis">Data analysis</a>
 
@@ -26,4 +26,4 @@ We have limited capacity to support grant writing or consultation. We do, howeve
 
 ## Costs
 
-Every project is different. We provide a budget estimate following your initial project consultation. If a U-WISDOM bioinformatician contributes substantially to a publication, we ask that you include them as a co-author.
+Every project is different. We provide a budget estimate following your initial project consultation. If a UWISDOM bioinformatician contributes substantially to a publication, we ask that you include them as a co-author.
