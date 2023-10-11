@@ -23,7 +23,7 @@ U-WISDOM brings expertise in multi-omics, statistics, and machine learning to he
 
 ## Contact
 
-Please reach out to Kim Dill-McFarland ( kadm[at]uw[.]edu ) with inquires regarding U-WISDOM. If you have a project for us, please fill out and include <a href="/forms/UWISDOM_consult_form.pdf" download>our consultation form</a>.
+Please reach out to U-WISDOM ( uwisdom@uw.edu ) with inquires and questions. If you have a specific project for us, please fill out and include <a href="/forms/UWISDOM_consult_form.pdf" download>our consultation form</a>.
 
 ## Location
 
