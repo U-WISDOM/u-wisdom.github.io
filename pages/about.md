@@ -1,13 +1,14 @@
 ---
 layout: page
 permalink: "/about/"
-subtitle: "University of Washington Informatics, Systems immunology, and Data Omics in Medicine"
 permalink: "/about/"
 header:
     title: About UWISDOM
     image_fullwidth: background/needle1b.jpg
     caption: View from UWISDOM offices
 ---
+
+## U of Washington Informatics, Systems immunology, and Data Omics in Medicine
 
 ## Our mission
 
