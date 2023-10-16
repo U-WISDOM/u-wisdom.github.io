@@ -12,6 +12,10 @@ header:
 
 UWISDOM provides bioinformatics services and resources to the U of Washington. We bring expertise in multi-omics, statistics, and machine learning to help you glean novel insights from your biological data. We offer assistance with experimental design, data analysis, and manuscript publication. Whether it is a one-time meeting or many years of collaboration, we are here for you! 
 
+## <a href="/services/buyout">Our buy-out model</a>
+
+UWISDOM operates through time buy-outs wherein a percent of our bioinformatician's time is contracted for a defined number of days to months. Learn more, <a href="/services/buyout">here</a>.
+
 ## <a href="/services/data-analysis">Data analysis</a>
 
 From DNA to RNA to protein, our bioinformaticians have experience in many multi-omic data types. We provide customized analysis of your data including data cleaning, statistical modeling, and visualization. Learn more, <a href="/services/data-analysis">here</a>.
@@ -23,7 +27,3 @@ If you have researchers who want to learn how to analyze their own data, we offe
 ## <a href="/services/grants">Grant support</a>
 
 We have limited capacity to support grant writing or consultation. We do, however, provide letters of support. Learn more, <a href="/services/consult">here</a>.
-
-## Costs
-
-Every project is different. We provide a budget estimate following your initial project consultation. If a UWISDOM bioinformatician contributes substantially to a publication, we ask that you include them as a co-author.
