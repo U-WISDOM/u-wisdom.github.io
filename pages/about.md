@@ -24,7 +24,7 @@ UWISDOM brings expertise in multi-omics, statistics, and machine learning to hel
 
 ## Contact
 
-Please reach out to UWISDOM ( uwisdom@uw.edu ) with inquires and questions. If you have a specific project for us, please fill out and include <a href="/forms/UWISDOM_consult_form.pdf" download>our consultation form</a>.
+Please reach out to UWISDOM ( [uwisdom@uw.edu](mailto:wisdom@uw.edu) ) with inquires and questions. If you have a specific project for us, please fill out and include <a href="/forms/UWISDOM_consult_form.pdf" download>our consultation form</a>.
 
 ## Location
 

@@ -18,7 +18,7 @@ There are also many open-source resources for self-learning. Please see our <a h
 
 ## Workshops
 
-UWISDOM hosts hybrid, hands-on workshops in bioinformatics. You can find our past workshops <a href="https://bigslu.github.io/workshops/">on GitHub</a> and up-coming workshops below. If you would like to setup a workshop for your group or one with custom content, please setup an <a href="/contact">initial consultation</a>.
+UWISDOM hosts hybrid, hands-on workshops in bioinformatics. You can find our past workshops <a href="https://bigslu.github.io/workshops/">on GitHub</a> and up-coming workshops below. If you would like to setup a workshop for your group or one with custom content, please contact us ( [uwisdom@uw.edu](mailto:wisdom@uw.edu) ).
 
 ### Up-coming workshops
 

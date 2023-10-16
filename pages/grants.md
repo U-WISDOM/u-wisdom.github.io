@@ -12,7 +12,7 @@ header:
 
 ## Letters of support
 
-UWISDOM is happy to provide letters of support. Please request a letter from UWISDOM ( uwisdom@uw.edu ) and include the title of your proposal, a brief summary, PI name, and funding agency. Please allow at least 2 weeks to receive your letter.
+UWISDOM is happy to provide letters of support. Please request a letter from UWISDOM ( [uwisdom@uw.edu](mailto:wisdom@uw.edu) ) and include the title of your proposal, a brief summary, PI name, and funding agency. Please allow at least 2 weeks to receive your letter.
 
 
 ## Grant consultation and writing
