@@ -29,6 +29,10 @@
   url: "/blog/"
   side: left
 
+- title: FAQ
+  url: "/faq/"
+  side: left
+  
 - title: "Request consultation"
   url: "/contact/"
   side: right
