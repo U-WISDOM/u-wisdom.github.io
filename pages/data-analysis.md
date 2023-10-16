@@ -12,9 +12,7 @@ header:
 
 UWISDOM offers customized analysis of your data. We work with you from experimental design to publication in order to leverage our expertise to help you get the most out of your research. Below you will find some specific data types and analyses that we are experienced in. However, if you don't see your specific data type or analysis, please reach out. Not everything is listed here, and we are always excited to learn new methods!
 
-<h2>Raw data</h2>
-
-We offer data analysis starting from raw fastq, idat, or most other omics files. This includes sequence alignment, counts table generation, SNP calling, and more. These processes may incur additional computational costs due to AWS usage. We do not offer raw proteomics data processing at this time.
+To get started with your project, please setup an <a href="/contact">initial consultation</a>.
 
 <h2>Analysis</h2>
 
@@ -55,6 +53,10 @@ We offer data analysis starting from raw fastq, idat, or most other omics files.
     <td>eQTL, meQTL, aQTL<br>Latent factor analysis<br>Discriminant analysis</td>
   </tr>
 </table>
+
+<h2>Raw data</h2>
+
+We offer data analysis starting from raw fastq, idat, or most other omics files. This includes sequence alignment, counts table generation, SNP calling, and more. These processes may incur additional computational costs over projects that start from processed data. We do not offer raw proteomics data processing at this time.
 
 <h2>Data upload and storage</h2>
 
