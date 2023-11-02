@@ -14,7 +14,7 @@
   url: "/services/"
   side: left
   dropdown:
-  - title: "Ouœr buy-out model"
+  - title: "Our buy-out model"
     url: "/services/buyout/"
   - title: "Data analysis"
     url: "/services/data-analysis/"
