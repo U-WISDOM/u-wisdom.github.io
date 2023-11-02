@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: "/services/data-analysis"
+permalink: "/services/data-analysis/"
 subheadline: ""
 title: ""
 teaser: ""
