@@ -11,7 +11,7 @@ header:
 
 A buy-out is when you support a percentage of our bioinformatician's full-time equivalent (FTE) for a set amount of time. UWISDOM uses this model to allow for any UW group to work with our bioinformaticians. 
 
-Our bioinformaticians were not hired specifically by UWISDOM. They come diverse labs in the Dept of Medicine and bring a range of expertise. When not on a UWISDOM project, these bioinformaticians return to their "home lab" and continue other work. 
+Our bioinformaticians were not hired specifically by UWISDOM. They come from diverse labs in the Dept of Medicine and bring a range of expertise. When not on a UWISDOM project, these bioinformaticians return to their "home lab" and continue other work. 
 
 ## Why this model?
 
