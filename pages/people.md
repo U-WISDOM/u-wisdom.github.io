@@ -31,7 +31,7 @@ header:
 <div class="row">
   <div class="small-3 columns">
       <br><br>
-      <img height="300px" class="center-block" src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/rosvenor_Dane.jpg?raw=true">
+      <img height="300px" class="center-block" src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Grosvenor_Dane.jpg?raw=true">
   </div>
   <div class="small-9 columns">
       <h3>Dane Grosvenor, MSc</h3>
