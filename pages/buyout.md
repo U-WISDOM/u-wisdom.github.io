@@ -19,5 +19,5 @@ Our bioinformaticians were not hired specifically by UWISDOM. They come from div
 
 2. UWISDOM prevents siloing of bioinformatic personnel in disparate departments. When a research group hires a single bioinformatician, there are often no other coders in the group. This person may feel isolated and not know where to seek out guidance and community. UWISDOM provides these connections so that bioinformaticians across UW can connect and share resources.
 
-3. At this time, UWISDOM does not have any of our own grant or central funding. Thus, we need a way grow bioinformatics capacity without (yet) making dedicated UWISDOM hires. Some activities (like initial consultations) are supported by a small set of research groups that believe in the importance of this resource and are willing to share their bioinformatic time in order to get us off the ground.
+3. At this time, UWISDOM does not have any of our own grant or central funding. Thus, we need a way to grow bioinformatics capacity without (yet) making dedicated UWISDOM hires. Some activities (like initial consultations) are supported by a small set of research groups that believe in the importance of this resource and are willing to share their bioinformatic time in order to get us off the ground.
 
