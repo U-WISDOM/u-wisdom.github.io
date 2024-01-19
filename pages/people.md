@@ -32,6 +32,23 @@ header:
 <div class="row">
   <div class="small-3 columns">
       <br><br>
+      <!--
+      <img height="300px" class="center-block" alt="Courtney Armour headshot"  src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Armour_Courtney.jpg?raw=true">
+      -->
+  </div>
+  <div class="small-9 columns">
+      <h3>Courtney Armour, PhD</h3>
+      Bioinformatician II<br>
+      <a style="font-weight:normal" href="https://courtneyarmour.github.io/">Personal website</a><br><br>
+  
+      Bio coming soon!
+  </div>
+</div>
+
+<hr> 
+<div class="row">
+  <div class="small-3 columns">
+      <br><br>
       <img height="300px" class="center-block" alt="Dane Grosvenor headshot"  src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Grosvenor_Dane.jpg?raw=true">
   </div>
   <div class="small-9 columns">
@@ -104,6 +121,24 @@ header:
   </div>
 </div>
 
+<div class="row">
+  <div class="large-3 columns">
+      <br><br>
+      <!--
+      <img height="300px" class="center-block" alt="Courtney Armour headshot" 
+      src="https://github.com/UWISDOM/uwisdom.github.io/blob/main/images/headshots/Armour_Courtney.jpg?raw=true">
+      -->
+  </div>
+  <div class="large-9 columns">
+      <h3>Courtney Armour, PhD</h3>
+      Bioinformatician II<br>
+      <a style="font-weight:normal" href="https://courtneyarmour.github.io/">Personal website</a><br><br>
+  
+      Bio coming soon!
+  </div>
+</div>
+
+<hr> 
 <div class="row">
   <div class="large-3 columns">
       <br><br>
