@@ -41,6 +41,19 @@ header:
   </div>
 </div>
 
+<div class="row">
+  <div class="small-3 columns">
+      <br><br>
+      <img height="300px" class="center-block" src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Segnitz_Max.jpeg?raw=true">
+  </div>
+  <div class="small-9 columns">
+      <h3>Max Segnitz, PhD</h3>
+      Bioinformatician IIbr><br>
+  
+      Max Segnitz is a bioinformatician in the School of Medicine, where he uses multi-omics data to explore human immune responses to allergy and infectious diseases. His research has focused primarily on genetic regulation of human susceptibility to _M. tuberculosis_ as well as gene interactions involved in response to biologic treatment of allergy and asthma. Secretly an ecologist, Max earned his PhD from Stanford working in the forests of Borneo, where he used field experimentation and meta-community sequencing to explore plant-fungal interactions and diversity in tropical forests. When he's not busy optimizing parallel computing or perfecting a new data visualization, you might find Max in the woodshop or baking a loaf of sourdough bread.
+  </div>
+</div>
+
 <!--- 
 <div class="row">
   <div class="small-3 columns">
@@ -85,6 +98,20 @@ header:
       Bioinformatician I<br><br>
   
       Dane Grosvenor is a current member of the Altman Lab at the UW School of Medicine. Dane primarily works with bulk RNA-Seq transcriptomic data in R to analyze a variety of biological questions related to human immunology. Dane has a Masters degree in Bioinformatics from Northeastern University and utilizes his experience in computational biology, biomedical data science, and an evolutionary biology background to assist in numerous projects. He thoroughly enjoys working with biological data, being able to create useful figures to explain his results, and taking his new puppy on walks while his computational models run.
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-3 columns">
+      <br><br>
+      <img height="300px" class="center-block"
+      src="https://github.com/UWISDOM/uwisdom.github.io/blob/main/images/headshots/Segnitx_Max.jpeg?raw=true">
+  </div>
+  <div class="large-9 columns">
+      <h3>Max Segnitz, PhD</h3>
+      Bioinformatician II<br><br>
+  
+      Max Segnitz is a bioinformatician in the School of Medicine, where he uses multi-omics data to explore human immune responses to allergy and infectious diseases. His research has focused primarily on genetic regulation of human susceptibility to _M. tuberculosis_ as well as gene interactions involved in response to biologic treatment of allergy and asthma. Secretly an ecologist, Max earned his PhD from Stanford working in the forests of Borneo, where he used field experimentation and meta-community sequencing to explore plant-fungal interactions and diversity in tropical forests. When he's not busy optimizing parallel computing or perfecting a new data visualization, you might find Max in the woodshop or baking a loaf of sourdough bread.
   </div>
 </div>
 
