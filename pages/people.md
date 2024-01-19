@@ -162,8 +162,7 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <br><br>
-      <img height="300px" class="center-block" alt="Madison Cox headshot" 
-      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Cox_Madison.jpeg?raw=true">
+      <img height="300px" class="center-block" alt="Madison Cox headshot" src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Cox_Madison.jpeg?raw=true">
   </div>
   <div class="large-9 columns">
       <h3>Madison Cox, PhD</h3>
@@ -177,8 +176,7 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <br><br>
-      <img height="300px" class="center-block" alt="Max Segnitz headshot" 
-      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Segnitz_Max.jpeg?raw=true">
+      <img height="300px" class="center-block" alt="Max Segnitz headshot"  src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Segnitz_Max.jpeg?raw=true">
   </div>
   <div class="large-9 columns">
       <h3>Max Segnitz, PhD</h3>
