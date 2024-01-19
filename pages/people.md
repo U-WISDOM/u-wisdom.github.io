@@ -131,7 +131,7 @@ header:
       <br><br>
       <!--
       <img height="300px" class="center-block" alt="Courtney Armour headshot" 
-      src="https://github.com/UWISDOM/uwisdom.github.io/blob/main/images/headshots/Armour_Courtney.jpg?raw=true">
+      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Armour_Courtney.jpg?raw=true">
       -->
   </div>
   <div class="large-9 columns">
@@ -163,7 +163,7 @@ header:
   <div class="large-3 columns">
       <br><br>
       <img height="300px" class="center-block" alt="Madison Cox headshot" 
-      src="https://github.com/UWISDOM/uwisdom.github.io/blob/main/images/headshots/Cox_Madison.jpeg?raw=true">
+      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Cox_Madison.jpeg?raw=true">
   </div>
   <div class="large-9 columns">
       <h3>Madison Cox, PhD</h3>
@@ -178,7 +178,7 @@ header:
   <div class="large-3 columns">
       <br><br>
       <img height="300px" class="center-block" alt="Max Segnitz headshot" 
-      src="https://github.com/UWISDOM/uwisdom.github.io/blob/main/images/headshots/Segnitx_Max.jpeg?raw=true">
+      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Segnitx_Max.jpeg?raw=true">
   </div>
   <div class="large-9 columns">
       <h3>Max Segnitz, PhD</h3>
@@ -195,7 +195,7 @@ header:
   <div class="large-3 columns">
       <br><br>
       <img height="300px" class="center-block" alt=" headshot" 
-      src="https://github.com/UWISDOM/uwisdom.github.io/blob/main/images/headshots/IMAGE.jpg?raw=true">
+      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/IMAGE.jpg?raw=true">
   </div>
   <div class="large-9 columns">
       <h3>NAME</h3>
