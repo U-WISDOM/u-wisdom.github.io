@@ -18,11 +18,11 @@ header:
 <div class="row">
   <div class="small-3 columns">
       <br><br>
-      <img height="300px" class="center-block" src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/DillMcFarland_Kim.jpeg?raw=true">
+      <img height="300px" class="center-block" alt="Kim Dill-McFarland headshot"  src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/DillMcFarland_Kim.jpeg?raw=true">
   </div>
   <div class="small-9 columns">
       <h3>Kim Dill-McFarland, PhD</h3>
-      Senior bioinformatician<br><br>
+      Senior bioinformatician<br>
       <a href="https://kdillmcfarland.github.io/">Personal website</a><br><br>
   
       Kim Dill-McFarland founded UWISDOM in 2023 in order to grow bioinformatic resources at UW. She is working toward her Project Management Certificate at UW and received her PhD in Microbiology from another UW (U of Wisconsin-Madison). Kim is currently a Senior Bioinformatician in the School of Medicine where she manages UWISDOM as well as a group of bioinformaticians working within individual labs. She has extensive 'omics experience including epigenetics, genetics, RNA, and protein modalities. She loves creating R packages and reproducible workflows, and you will most commonly find her coding with a cat in her lap. When not working, Kim can often be found building in Minecraft or working on massive puzzles that are too large for her coffee table.
@@ -32,7 +32,7 @@ header:
 <div class="row">
   <div class="small-3 columns">
       <br><br>
-      <img height="300px" class="center-block" src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Grosvenor_Dane.jpg?raw=true">
+      <img height="300px" class="center-block" alt="Dane Grosvenor headshot"  src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Grosvenor_Dane.jpg?raw=true">
   </div>
   <div class="small-9 columns">
       <h3>Dane Grosvenor, MSc</h3>
@@ -45,7 +45,7 @@ header:
 <div class="row">
   <div class="small-3 columns">
       <br><br>
-      <img height="300px" class="center-block" src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Cox_Madison.jpeg?raw=true">
+      <img height="300px" class="center-block" alt="Madison Cox headshot"  src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Cox_Madison.jpeg?raw=true">
   </div>
   <div class="small-9 columns">
       <h3>Madison Cox, PhD</h3>
@@ -58,11 +58,11 @@ header:
 <div class="row">
   <div class="small-3 columns">
       <br><br>
-      <img height="300px" class="center-block" src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Segnitz_Max.jpeg?raw=true">
+      <img height="300px" class="center-block" alt="Max Segnitz headshot"  src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Segnitz_Max.jpeg?raw=true">
   </div>
   <div class="small-9 columns">
       <h3>Max Segnitz, PhD</h3>
-      Bioinformatician II<br><br>
+      Bioinformatician II<br>
       <a href="https://rmsegnitz.wixsite.com/home">Personal website</a><br><br>
   
       Max Segnitz is a Bioinformatician in the Altman and Hawn labs in the School of Medicine, where he uses multi-omics data to explore human immune responses to allergy and infectious diseases. His research has focused primarily on genetic regulation of human susceptibility to _M. tuberculosis_ as well as gene interactions involved in response to biologic treatment of allergy and asthma. Secretly an ecologist, Max earned his PhD from Stanford in Ecology and Evolution working in the forests of Borneo, where he used field experimentation and meta-community sequencing to explore plant-fungal interactions and diversity in tropical forests. When he's not busy optimizing parallel computing or perfecting a new data visualization, you might find Max in the woodshop or baking a loaf of sourdough bread.
@@ -73,11 +73,11 @@ header:
 <div class="row">
   <div class="small-3 columns">
       <br><br>
-      <img height="300px" class="center-block" src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/IMAGE.jpg?raw=true">
+      <img height="300px" class="center-block" alt=" headshot"  src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/IMAGE.jpg?raw=true">
   </div>
   <div class="small-9 columns">
       <h3>NAME</h3>
-      TITLE<br><br>
+      TITLE<br>
       <a href="">Personal website</a><br><br>
   
       BIO
@@ -92,12 +92,12 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <br><br>
-      <img height="300px" class="center-block"
+      <img height="300px" class="center-block" alt="Kim Dill-McFarland headshot" 
       src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/DillMcFarland_Kim.jpeg?raw=true">
   </div>
   <div class="large-9 columns">
       <h3>Kim Dill-McFarland, PhD</h3>
-      Senior bioinformatician<br><br>
+      Senior bioinformatician<br>
       <a href="https://kdillmcfarland.github.io/">Personal website</a><br><br>
   
       Kim Dill-McFarland founded UWISDOM in 2023 in order to grow bioinformatic resources at UW. She is working toward her Project Management Certificate at UW and received her PhD in Microbiology from another UW (U of Wisconsin-Madison). Kim is currently a Senior Bioinformatician in the School of Medicine where she manages UWISDOM as well as a group of bioinformaticians working within individual labs. She has extensive 'omics experience including epigenetics, genetics, RNA, and protein modalities. She loves creating R packages and reproducible workflows, and you will most commonly find her coding with a cat in her lap. When not working, Kim can often be found building in Minecraft or working on massive puzzles that are too large for her coffee table.
@@ -107,7 +107,7 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <br><br>
-      <img height="300px" class="center-block"
+      <img height="300px" class="center-block" alt="Dane Grosvenor headshot" 
       src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Grosvenor_Dane.jpg?raw=true">
   </div>
   <div class="large-9 columns">
@@ -121,7 +121,7 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <br><br>
-      <img height="300px" class="center-block"
+      <img height="300px" class="center-block" alt="Madison Cox headshot" 
       src="https://github.com/UWISDOM/uwisdom.github.io/blob/main/images/headshots/Cox_Madison.jpeg?raw=true">
   </div>
   <div class="large-9 columns">
@@ -135,12 +135,12 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <br><br>
-      <img height="300px" class="center-block"
+      <img height="300px" class="center-block" alt="Max Segnitz headshot" 
       src="https://github.com/UWISDOM/uwisdom.github.io/blob/main/images/headshots/Segnitx_Max.jpeg?raw=true">
   </div>
   <div class="large-9 columns">
       <h3>Max Segnitz, PhD</h3>
-      Bioinformatician II<br><br>
+      Bioinformatician II<br>
       <a href="https://rmsegnitz.wixsite.com/home">Personal website</a><br><br>
   
       Max Segnitz is a Bioinformatician in the Altman and Hawn labs in the School of Medicine, where he uses multi-omics data to explore human immune responses to allergy and infectious diseases. His research has focused primarily on genetic regulation of human susceptibility to _M. tuberculosis_ as well as gene interactions involved in response to biologic treatment of allergy and asthma. Secretly an ecologist, Max earned his PhD in Ecology and Evolution from Stanford working in the forests of Borneo, where he used field experimentation and meta-community sequencing to explore plant-fungal interactions and diversity in tropical forests. When he's not busy optimizing parallel computing or perfecting a new data visualization, you might find Max in the woodshop or baking a loaf of sourdough bread.
@@ -151,12 +151,12 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <br><br>
-      <img height="300px" class="center-block"
+      <img height="300px" class="center-block" alt=" headshot" 
       src="https://github.com/UWISDOM/uwisdom.github.io/blob/main/images/headshots/IMAGE.jpg?raw=true">
   </div>
   <div class="large-9 columns">
       <h3>NAME</h3>
-      TITLE<br><br>
+      TITLE<br>
       <a href="">Personal website</a><br><br>
   
       BIO
