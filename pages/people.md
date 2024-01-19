@@ -178,7 +178,7 @@ header:
   <div class="large-3 columns">
       <br><br>
       <img height="300px" class="center-block" alt="Max Segnitz headshot" 
-      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Segnitx_Max.jpeg?raw=true">
+      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Segnitz_Max.jpeg?raw=true">
   </div>
   <div class="large-9 columns">
       <h3>Max Segnitz, PhD</h3>
