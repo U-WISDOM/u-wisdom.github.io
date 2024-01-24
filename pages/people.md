@@ -34,10 +34,8 @@ header:
 <div class="row">
   <div class="small-3 columns">
       <br><br>
-      <!--
       <img height="300px" class="center-block" alt="Courtney Armour headshot" 
       src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Armour_Courtney.jpg?raw=true">
-      -->
   </div>
   <div class="small-9 columns">
       <h3>Courtney Armour, PhD</h3>
@@ -134,10 +132,8 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <br><br>
-      <!--
       <img height="300px" class="center-block" alt="Courtney Armour headshot" 
       src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/headshots/Armour_Courtney.jpg?raw=true">
-      -->
   </div>
   <div class="large-9 columns">
       <h3>Courtney Armour, PhD</h3>
