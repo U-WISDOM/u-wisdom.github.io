@@ -12,7 +12,7 @@ header:
     image_fullwidth: background/texture2.jpg
 ---
 
-<!--- Small format --->
+<!--- Small format ---> 
 
 <div class="show-for-medium-down">
 <div class="row">
