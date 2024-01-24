@@ -42,7 +42,7 @@ header:
       Bioinformatician II<br>
       <a style="font-weight:normal" href="https://courtneyarmour.github.io/">Personal website</a><br><br>
   
-      Bio coming soon!
+      Courtney Armour is a Bioinformatician in the Altman Lab in the UW School of Medicine. She earned her PhD in Molecular and Cellular Biology at Oregon State University. She has extensive experience in gut microbiome analysis including amplicon sequencing, meta-genomics, and meta-transcriptomics. At UW, she is currently using her computational expertise to analyze changes in gene expression associated with asthma. Courtney enjoys creating reproducible workflows to analyze challenging datasets and creating effective visualizations to communicate the results. She is also passionate about helping others learn to code. When not at the computer, Courtney enjoys going on adventures with her high-energy german shorthaired pointer. 
   </div>
 </div>
 
@@ -140,7 +140,7 @@ header:
       Bioinformatician II<br>
       <a style="font-weight:normal" href="https://courtneyarmour.github.io/">Personal website</a><br><br>
   
-      Bio coming soon!
+      Courtney Armour is a Bioinformatician in the Altman Lab in the UW School of Medicine. She earned her PhD in Molecular and Cellular Biology at Oregon State University. She has extensive experience in gut microbiome analysis including amplicon sequencing, meta-genomics, and meta-transcriptomics. At UW, she is currently using her computational expertise to analyze changes in gene expression associated with asthma. Courtney enjoys creating reproducible workflows to analyze challenging datasets and creating effective visualizations to communicate the results. She is also passionate about helping others learn to code. When not at the computer, Courtney enjoys going on adventures with her high-energy german shorthaired pointer.
   </div>
 </div>
 
