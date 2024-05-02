@@ -14,10 +14,10 @@ header:
 
 <!--- Group photo ---> 
 <div class="row">
-  <div class="large-3 columns">
+  <div class="large-12 columns">
       <br><br>
       <figure>
-      <img height="300px" class="center-block" alt="UWISDOM curling group photo" 
+      <img height="800px" class="center-block" alt="UWISDOM curling group photo" 
       src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/group/2024_Altman_lab_landscape.jpg?raw=true">
       <figcaption>2024 Curling! Naresh, Kim, Tomasz, Matt, Max, Madison, Courtney</figcaption>
       </figure>
