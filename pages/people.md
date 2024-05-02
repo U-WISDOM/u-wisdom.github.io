@@ -16,11 +16,13 @@ header:
 <div class="row">
   <div class="large-3 columns">
       <br><br>
-      <img height="300px" class="center-block" alt=" headshot" 
-      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/group/2024_Altman_lab_landscape?raw=true">
+      <figure>
+      <img height="300px" class="center-block" alt="UWISDOM curling group photo" 
+      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/group/2024_Altman_lab_landscape.jpg?raw=true">
+      <figcaption>2024 Curling! Naresh, Kim, Tomasz, Matt, Max, Madison, Courtney</figcaption>
+      </figure>
   </div>
 </div>
-
 <hr>
 
 <!--- Small format ---> 
