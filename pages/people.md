@@ -12,6 +12,17 @@ header:
     image_fullwidth: background/texture2.jpg
 ---
 
+<!--- Group photo ---> 
+<div class="row">
+  <div class="large-3 columns">
+      <br><br>
+      <img height="300px" class="center-block" alt=" headshot" 
+      src="https://github.com/UWISDOM/uwisdom.github.io/blob/gh-pages/images/group/2024_Altman_lab_landscape?raw=true">
+  </div>
+</div>
+
+<hr>
+
 <!--- Small format ---> 
 
 <div class="show-for-medium-down">
